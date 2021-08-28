@@ -1,4 +1,4 @@
-package com.corrida.model;
+package model;
 
 public class SocorristaCarro {
 

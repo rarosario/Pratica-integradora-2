@@ -1,6 +1,4 @@
-package com.corrida.model;
-
-import java.util.List;
+package model;
 
 public abstract class Veiculo {
 

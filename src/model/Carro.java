@@ -1,4 +1,4 @@
-package com.corrida.model;
+package model;
 
 public class Carro extends Veiculo {
     private static final double PESO_CARRO = 1000d;

@@ -1,4 +1,4 @@
-package com.corrida.model;
+package model;
 
 import java.util.HashMap;
 
